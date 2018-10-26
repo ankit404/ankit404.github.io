@@ -1,0 +1,55 @@
+{
+  "name": "Webspherex | Digital Creative Studio ",
+  "short_name": "Webspherex",
+  "theme_color": "#000101",
+  "background_color": "#000101",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "/",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "icon36x36.png",
+      "sizes": "36x36",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "icon48X48.png",
+      "sizes": "48X48",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "icon48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "icon72x72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "icon96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "icon144x144.png",
+      "sizes": "144X144",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "icon196x196.png",
+      "sizes": "196X196",
+      "type": "image/png",
+      "density": "0.75"
+    }
+  ],
+  "splash_pages": null
+}
